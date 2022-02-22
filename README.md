@@ -1,7 +1,7 @@
 # CarAR
 A first project using Vuforia with Unity to make AR.
 
-#Images to scan :
+# Images to scan :
 
 ![Auto](https://raw.githubusercontent.com/MathieuSevegny/CarAR/main/auto.jpg)
 
